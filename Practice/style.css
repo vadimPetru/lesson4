@@ -43,3 +43,24 @@ ul{
   border-bottom: 2px solid gray;
 }
 
+.content a{
+  text-decoration: none;
+  color: #494d56;
+  font-weight: bolder;
+
+}
+
+ol {
+  font-size: 0.8em;
+}
+
+ol li a{
+  color: gray;
+}
+
+
+
+
+
+
+
