@@ -56,8 +56,49 @@ ol {
 
 ol li a{
   color: gray;
+  
 }
 
+.Goodassign {
+  color :white;
+  text-decoration: none;
+}
+
+td{
+  padding: 3px;
+}
+.table1{
+  background-color:#6699ff;
+  border-collapse: collapse;
+  padding: 0;
+  border-spacing: 0;
+  margin: auto;
+  border-color:#6699FF ; 
+  width: 800px;
+  border:1px;
+
+}
+img {
+  height: 187px;
+  width: 100px;
+}
+table td,tr{
+  width:100px;
+}
+.table2{
+  background-color:white;
+  width:800px;
+  margin: auto;
+  border-collapse: collapse;
+  padding: 0;
+  border-spacing: 0;
+  border:3px solid #6699FF;
+  
+}
+.footercolor {
+  background-color:#6699ff ;
+}
+ 
 
 
 
