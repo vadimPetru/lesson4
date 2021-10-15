@@ -10,15 +10,19 @@ h2,h3{
   text-transform: uppercase;
   color: #494d56;
 } 
+ h2{
+   margin-top:0;
+ }
 
 #shapka,#slogan{
   font-family: Arial;
   text-align: center;
   color: white;
   font-weight: bold;
+  
 }
 
-#slogan{padding: 5px 0 5px 0;}
+#slogan{padding: 10px 0 5px 0;}
 
 .foot{
   color: white;
@@ -75,12 +79,15 @@ td{
   margin: auto;
   border-color:#6699FF ; 
   width: 800px;
+  height: 180px;
   border:1px;
 
 }
 img {
-  height: 187px;
+  
   width: 100px;
+  float: left;
+  
 }
 table td,tr{
   width:100px;
@@ -99,7 +106,6 @@ table td,tr{
   background-color:#6699ff ;
 }
  
-
 
 
 
