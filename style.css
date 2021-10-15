@@ -27,7 +27,7 @@ h3{
   margin-left: 25px; 
   color: #25a561;
   border-top-width: 1px;
-  border-top-style: double;
+  border-top-style: solid;
   border-top-color: #32686a;
 }
 p{
